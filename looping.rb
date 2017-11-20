@@ -1,4 +1,4 @@
-def looping (Wingardium Leviosa) do
+def looping ("Wingardium Leviosa") do
   puts "Wingardium Leviosa"
 end
 
