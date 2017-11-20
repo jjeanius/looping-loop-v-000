@@ -6,4 +6,3 @@ def looping
 end
 
 Wingardium Leviosa
-#call your method here
