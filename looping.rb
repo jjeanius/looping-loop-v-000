@@ -1,4 +1,4 @@
-def looping ("Wingardium Leviosa")
+def looping
   counter = 0
   loop do
   counter += 1
