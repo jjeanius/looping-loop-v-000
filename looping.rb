@@ -3,6 +3,7 @@ def looping
   loop do
   counter += 1
   puts "Wingardium Leviosa"
+  end
 end
 
 Wingardium Leviosa
